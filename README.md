@@ -35,10 +35,11 @@ This project provides a simple executable utility for toggling HDMI inputs on a 
 ## Example
 
 1. Launch the executable.
-2. Enter The Password `42625483`
-3. When prompted, enter Your TV IP Address.
-4. Press Enter to switch to HDMI input 1.
-5. Press Enter again to switch to HDMI input 2.
+2. Get Past All The Windoes Protected Your PC Stuff Because I Dont Want To Get a Certificate.
+3. Enter The Password `42625483`.
+4. When prompted, enter Your TV IP Address.
+5. Press Enter to switch to HDMI input 1.
+6. Press Enter again to switch to HDMI input 2.
 
 ## Troubleshooting
 
