@@ -12,7 +12,7 @@ This project provides a simple executable utility for toggling HDMI inputs on a 
 ## Installation
 
 1. **Download the Executable**: 
-   - Download the latest release from the [releases page](https://github.com/your-username/hdmi-switcher-exe/releases).
+   - Download the latest release from the [releases page](https://github.com/XGFZOfficial/RIC/releases/).
 
 2. **Prerequisites**:
    - Ensure you have a compatible Windows operating system.
