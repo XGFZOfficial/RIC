@@ -58,3 +58,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or feedback, you can reach me at [mytab01910@gmail.com](mailto:mytab01910@gmail.com).
 
+## Share With a Friend
+![ ](https://api.qrserver.com/v1/create-qr-code/?data=https://github.com/XGFZOfficial/RIC&size=150x150) 
+
+## Made By
+XGFZTeam
+
+
